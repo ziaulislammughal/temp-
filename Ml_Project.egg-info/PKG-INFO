@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Ml-Project
+Version: 1.0.0
+Summary: A Machine Learning project to predict customer churn in a telecommunications company
+Home-page: https://github.com/ZiaulIslamMughal/telecom_churn_prediction
+Author: Zia ul Islam Mughal
+Author-email: ziamughal132@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
